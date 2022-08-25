@@ -1,0 +1,37 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo">
+    <ActionBar backgroundColor="Green">
+        <Label text="EShop" frontSize="22px" color="white"></Label>
+    </ActionBar>
+<StackLayout >
+     <StackLayout orientation="horizontal" Width="210" height="100" >
+    <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Shop.svg/1200px-Shop.svg.png" width="20%"></Image>
+    <Label text="Label 1" width="50" height="50" backgroundColor="red"/>
+   </StackLayout>
+    <StackLayout orientation="horizontal" Width="210" height="100" backgroundColor="lightgray" >
+    <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Shop.svg/1200px-Shop.svg.png" width="20%"></Image>
+    <Label text="Label 2" fontSize="20px" height="50" backgroundColor="red"/>
+  </StackLayout>
+  <StackLayout orientation="horizontal" Width="210" height="100" backgroundColor="lightgray" >
+    <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Shop.svg/1200px-Shop.svg.png" width="20%"></Image>
+    <Label text="Label 3" fontSize="20px" height="50" backgroundColor="red"/>
+  </StackLayout>
+  <StackLayout orientation="horizontal" Width="210" height="100" backgroundColor="lightgray" >
+    <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Shop.svg/1200px-Shop.svg.png" width="20%"></Image>
+    <Label text="Label 4" fontSize="20px" height="50" backgroundColor="red"/>
+  </StackLayout>
+  <StackLayout orientation="horizontal" Width="210" height="100" backgroundColor="lightgray" >
+    <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Shop.svg/1200px-Shop.svg.png" width="20%"></Image>
+    <Label text="Label 5" fontSize="20px" height="50" backgroundColor="red"/>
+  </StackLayout>
+  <StackLayout orientation="horizontal" Width="210" height="100" backgroundColor="lightgray" >
+    <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Shop.svg/1200px-Shop.svg.png" width="20%"></Image>
+    <Label text="Label 6" fontSize="20px" height="50" backgroundColor="red"/>
+  </StackLayout>
+  <StackLayout orientation="horizontal" Width="210" height="100" backgroundColor="lightgray" >
+    <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Shop.svg/1200px-Shop.svg.png" width="20%"></Image>
+    <Label text="Label 7" fontSize="20px" height="50" backgroundColor="red"/>
+  </StackLayout>
+  </StackLayout>
+
+ 
+</Page>
